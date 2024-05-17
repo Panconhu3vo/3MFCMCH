@@ -23,5 +23,5 @@ Proceso macdonalds
 			FinSi
 		FinSi
 	FinSi
-	
+	Escribir "Hola";
 FinProceso
